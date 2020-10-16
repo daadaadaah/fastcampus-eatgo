@@ -2,7 +2,8 @@
 
 [![Build Status](https://travis-ci.org/ahastudio/fastcampus-eatgo.svg?branch=master)](https://travis-ci.org/ahastudio/fastcampus-eatgo)
 
-“Fast Campus 올인원 패키지: Java 웹 개발 마스터” 실전 프로젝트.
+[“Fast Campus 올인원 패키지: Java 웹 개발 마스터” 실전 프로젝트.](https://www.fastcampus.co.kr/courses/200748/clips/)
+- [패스트캠퍼스 온라인 스프링 부트 프로젝트 EatGo Reference](https://docs.google.com/document/d/e/2PACX-1vTStbhpexFdoJ4M7jHmaOge9V-iLuEXES22jZPdmZD-xgZr9p142xsreetWPhT94yh-E2RdGq0O964O/pub)
 
 ## Test all
 
